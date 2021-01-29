@@ -5,6 +5,10 @@ He worked as a part-time teaching assistant at the Islamic University of Gaza fo
 
 His keen interest in data engineering and analytics as well as his beliefs in the role that the data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned a DAAD scholarship in 2019 to pursue an M.Sc degree in Data Science at Jordan University of Science and Technology. His main research focus is oriented toward data engineering in addition to the employment of data science tools and techniques to support the industrial engineering field.
 
+### 📫 How to reach me:
+1. gshurrab@gmail.com
+2. sashurrab18@cit.just.edu.jo
+
 <!--
 **SaeedShurrab/saeedshurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
