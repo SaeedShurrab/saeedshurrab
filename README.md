@@ -12,8 +12,6 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 1. gshurrab@gmail.com
 2. sashurrab18@cit.just.edu.jo
 
-## or
-
 ### 💬 Follow my latest updates on:
 https://saeedshurrab.github.io/
 
