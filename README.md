@@ -8,7 +8,7 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 2. Computer vision in medical images. 
 3. Data science in industrial engineering field.
 
-### 📫 Feel Free to reach me via:
+### 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
 2. sashurrab18@cit.just.edu.jo
 
