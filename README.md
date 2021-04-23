@@ -8,8 +8,9 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 2. Computer vision in medical images. 
 3. Data science in industrial engineering field.
 
-### 🔭 I’m currently working on analysing T2DM epdimiological data in six countries of Eastern Mediterranean region
-### namely : Jordan, Palestine , Syria, Iraq, Lebanon and Egypt
+### 🔭 I’m currently working on:
+analysing T2DM epdimiological data in six countries of Eastern Mediterranean region namely :
+Jordan, Palestine , Syria, Iraq, Lebanon and Egypt
 
 ### 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
