@@ -9,7 +9,8 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 3. Data science in industrial engineering field.
 
 ### 🔭 I’m currently working on:
-analysing T2DM epdimiological data in six countries of Eastern Mediterranean region namely :
+analysing T2DM epidemiological data in six countries of the Eastern Mediterranean region namely :
+
 Jordan, Palestine , Syria, Iraq, Lebanon and Egypt
 
 ### 📫 Feel free to reach me via:
