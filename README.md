@@ -16,6 +16,7 @@ Jordan, Palestine , Syria, Iraq, Lebanon and Egypt
 ### 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
 2. sashurrab18@cit.just.edu.jo
+3. sshurrab91@daad-alumni.de
 
 ### 💬 Follow my latest updates on:
 https://saeedshurrab.github.io/
