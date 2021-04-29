@@ -6,8 +6,8 @@ He worked as a part-time teaching assistant at the Islamic University of Gaza fo
 His keen interest in data engineering and analytics as well as his beliefs in the role that the data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned a DAAD scholarship in 2019 to pursue an M.Sc degree in Data Science at Jordan University of Science and Technology. His main research focus is oriented toward:
 
 1. Deep Learning.
-2. Computer vision in medical images. 
-3. Self-supervised learning.
+2. Self-supervised learning.
+3. Computer vision in medical images. 
 
 ### 🔭 I’m currently working on:
 analysing T2DM epidemiological data in six countries of the Eastern Mediterranean region namely :
