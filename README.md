@@ -9,10 +9,6 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 2. Self-supervised learning.
 3. Deep learning in medical images. 
 
-### 🔭 I’m currently working on:
-analysing T2DM epidemiological data in six countries of the Eastern Mediterranean region namely :
-
-Jordan, Palestine , Syria, Iraq, Lebanon and Egypt
 
 ### 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
