@@ -18,6 +18,10 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 ### 💬 Follow my latest updates on:
 https://saeedshurrab.github.io/
 
+### 🔭 I’m currently working on:
+
+**Optical Coherence Tomography (OCT)** images classification via **Self Supervised Learning** approaches
+
 <!--
 **SaeedShurrab/saeedshurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
