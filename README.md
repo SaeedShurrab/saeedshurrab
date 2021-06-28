@@ -23,6 +23,8 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 <br>
 
 ## 📫 Feel free to reach me via:
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://twitter.com/saeedsh91)
+
 1. gshurrab@gmail.com
 2. sashurrab18@cit.just.edu.jo
 3. sshurrab91@daad-alumni.de
