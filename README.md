@@ -1,4 +1,4 @@
-## Brief intro:
+## :clipboard:Brief intro:
 Saeed Shurrab earned his B.Sc. degree in Industrial and Systems Engineering from the Faculty of Engineering at the Islamic University of Gaza, Gaza Strip, Palestine in 2014.
 
 He worked as a part-time teaching assistant at the Islamic University of Gaza for two years (2014-2016). Further, he held a production and quality management position for five years (2014-2019) at a local industrial company in Gaza Strip.
