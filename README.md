@@ -21,7 +21,7 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 https://saeedshurrab.github.io/
 
 
-## Connect with me
+## Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saeed-shurrab-35b504120/)
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/saeed.shurrab)
@@ -34,7 +34,8 @@ https://saeedshurrab.github.io/
 <br>
 <br>
 
-
+## programming languages and packages
+[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />]
 
 
 
