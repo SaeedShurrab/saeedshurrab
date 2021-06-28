@@ -5,6 +5,19 @@ He worked as a part-time teaching assistant at the Islamic University of Gaza fo
 
 His keen interest in data engineering and analytics as well as his beliefs in the role that the data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned a DAAD scholarship in 2019 to pursue an M.Sc degree in Data Science at Jordan University of Science and Technology. His main research focus is oriented toward:
 
+### Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saeed-shurrab-35b504120/)
+
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/saeed.shurrab)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/saeedsh91)
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
+
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
+<br>
+<br>
+
+
 1. Computer vision.
 2. Self supervised learning.
 3. Deep learning in medical images. 
