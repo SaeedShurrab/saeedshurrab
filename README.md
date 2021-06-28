@@ -1,4 +1,4 @@
-## :clipboard:Brief intro:
+## :clipboard: Brief intro:
 Saeed Shurrab earned his B.Sc. degree in Industrial and Systems Engineering from the Faculty of Engineering at the Islamic University of Gaza, Gaza Strip, Palestine in 2014.
 
 He worked as a part-time teaching assistant at the Islamic University of Gaza for two years (2014-2016). Further, he held a production and quality management position for five years (2014-2019) at a local industrial company in Gaza Strip.
@@ -21,7 +21,7 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 https://saeedshurrab.github.io/
 
 
-## Connect with me:
+## 💬 Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saeed-shurrab-35b504120/)
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/saeed.shurrab)
@@ -34,7 +34,7 @@ https://saeedshurrab.github.io/
 <br>
 <br>
 
-## Programming languages and packages
+##  ⚡ Programming languages and packages
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 
