@@ -34,8 +34,10 @@ https://saeedshurrab.github.io/
 <br>
 <br>
 
-##  ⚡ Programming languages and packages
+##  ⚡ Programming languages and packages:
 
+<div align="center">
+  
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 
 [<img align="left" alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />](https://pytorch.org/)
@@ -54,6 +56,18 @@ https://saeedshurrab.github.io/
 
 <br>
 <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedShurrab&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## 🌱 My Github summary:
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedShurrab&count_private=true&show_icons=true&&theme=radical)
+
+
 
 
 
