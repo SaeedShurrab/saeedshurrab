@@ -3,7 +3,7 @@ Saeed Shurrab earned his B.Sc. degree in Industrial and Systems Engineering from
 
 He worked as a part-time teaching assistant at the Islamic University of Gaza for two years (2014-2016). Further, he held a production and quality management position for five years (2014-2019) at a local industrial company in Gaza Strip.
 
-His keen interest in data engineering and analytics as well as his beliefs in the role that the data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned a DAAD scholarship in 2019 to pursue an M.Sc degree in Data Science at Jordan University of Science and Technology. His main research focus is oriented toward:
+His keen interest in data engineering and analytics as well as his beliefs in the role that the data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned the German Academic Exchange scholarship - DAAD in 2019 to pursue an M.Sc degree in Data Science and Artificial Intelligence at Jordan University of Science and Technology. His main research interests are in the area of:
 
 1. Computer vision.
 2. Self supervised learning.
@@ -46,19 +46,22 @@ https://saeedshurrab.github.io/
 [<img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />](https://scikit-learn.org/stable/)
 
 
-[<img align="left" alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
+  [<img align="left" alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
 
-[<img align="left" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />](https://numpy.org/)
+  [<img align="left" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />](https://numpy.org/)
 
-[<img align="left" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />](https://plotly.com/)
+  [<img align="left" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />](https://plotly.com/)
 
-[<img align="left" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />](https://www.latex-project.org/)
-[<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/)
-
+  [<img align="left" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />](https://www.latex-project.org/)
+  [<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/)
 <br>
 <br>
-  
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedShurrab&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
 
 
 
