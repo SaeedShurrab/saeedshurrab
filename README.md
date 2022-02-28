@@ -53,6 +53,7 @@ https://saeedshurrab.github.io/
 [<img align="left" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />](https://plotly.com/)
 
 [<img align="left" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />](https://www.latex-project.org/)
+[<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/)
 
 <br>
 <br>
