@@ -10,7 +10,7 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 3. Deep learning in medical images. 
 
 ## 🔭 I’m currently working on:
-**Optical Coherence Tomography (OCT)** images classification via **Self Supervised Learning** approaches
+**Seeking P.h.D opportunity in self-supervised learning and medical imaging.**
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
