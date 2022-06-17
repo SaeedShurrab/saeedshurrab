@@ -3,14 +3,14 @@ Saeed Shurrab earned his B.Sc. degree in Industrial and Systems Engineering from
 
 He worked as a part-time teaching assistant at the Islamic University of Gaza for two years (2014-2016). Further, he held a production and quality management position for five years (2014-2019) at a local industrial company in Gaza Strip.
 
-His keen interest in data engineering and analytics as well as his beliefs in the role that the data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned the German Academic Exchange scholarship - DAAD in 2019 to pursue an M.Sc degree in Data Science and Artificial Intelligence at Jordan University of Science and Technology. His main research interests are in the area of:
+His keen interest in data engineering and analytics as well as his beliefs in the role that data play in creating robust decisions and better solutions encouraged him to invade the data science field. He earned the German Academic Exchange scholarship - DAAD in 2019 to pursue an M.Sc degree in Data Science and Artificial Intelligence at Jordan University of Science and Technology and earned the degree in 2022. His main research interests are in the area of:
 
 1. Computer vision.
 2. Self supervised learning.
 3. Deep learning in medical images. 
 
-## 🔭 I’m currently working on:
-**Seeking P.h.D opportunity in self-supervised learning and medical imaging.**
+## 🔭 I’m currently looking for:
+** Ph.D opportunity in self-supervised learning and medical imaging.**
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
