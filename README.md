@@ -10,7 +10,7 @@ His keen interest in data engineering and analytics as well as his beliefs in th
 3. Deep learning in medical images. 
 
 ## 🔭 I’m currently looking for:
-** Ph.D opportunity in self-supervised learning and medical imaging.**
+**Ph.D opportunity in self-supervised learning and medical imaging.**
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
