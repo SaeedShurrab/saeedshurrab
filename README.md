@@ -12,8 +12,9 @@ His keen interest in data analytics as well as his beliefs in the role that data
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
-2. sshurrab91@daad-alumni.de 
-3. sashurrab18@cit.just.edu.jo
+2. saeed.shurrab@nyu.edu
+3. sshurrab91@daad-alumni.de 
+ 
 
 ## 💬 Follow my latest updates on:
 https://saeedshurrab.github.io/
