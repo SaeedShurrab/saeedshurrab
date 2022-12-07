@@ -7,8 +7,8 @@ His keen interest in data analytics as well as his beliefs in the role that data
 2. Self supervised learning in medical imaging.
 3. Deep learning in medical images. 
 
-## 🔭 I’m currently looking for:
-**Ph.D opportunity in self-supervised learning and medical imaging.**
+## 🔭 I’m currently working as:
+**Research assistant - Clinical AI Lab - New York University Abu Dhabi.**
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
