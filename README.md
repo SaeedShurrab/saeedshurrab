@@ -1,14 +1,9 @@
-## :clipboard: Brief intro:
-Saeed Shurrab earned his B.Sc. degree in Industrial and Systems Engineering from the Faculty of Engineering at the Islamic University of Gaza, Gaza Strip, Palestine in 2014. He worked as a part-time teaching assistant at the Islamic University of Gaza for two years (2014-2016). Further, he held a production and quality management position for five years (2014-2019) at a local industrial company in Gaza Strip.
+## :clipboard: Intro:
+Saeed Shurrab completed an MSc in Data Science and Artificial Intelligence at Jordan University of Science and Technology with the German Academic Exchange Scholarship (DAAD). He graduated in 2022 with Distinction. Prior to that, he completed a BSc in Industrial and Systems Engineering from the Islamic University of Gaza - Palestine in 2014. His keen interest in data analytics and beliefs in the role that data can play in creating robust decisions and better solutions encouraged him to join the field of data science. Currently, Saeed focuses on developing deep neural networks and their applications to healthcare problems.
 
-His keen interest in data analytics as well as his beliefs in the role that data play in creating robust decisions and better solutions encouraged him to invade the field of data science. He earned the German Academic Exchange Scholarship (DAAD) in 2019 to pursue an M.Sc degree in Data Science and Artificial Intelligence at Jordan University of Science and Technology and earned the degree in 2022 with distinction. His main research interests are in the area of:
-
-1. Computer vision.
-2. Self supervised learning in medical imaging.
-3. Deep learning in medical images. 
 
 ## 🔭 I’m currently working as:
-**Research assistant - Clinical AI Lab - New York University Abu Dhabi.**
+**Research Assistant - [Clinical AI Lab](https://clinicalailab.com/index.html) - New York University Abu Dhabi.**
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
