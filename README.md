@@ -1,9 +1,8 @@
-## :clipboard: Intro:
-Saeed Shurrab completed an MSc in Data Science and Artificial Intelligence at Jordan University of Science and Technology with the German Academic Exchange Scholarship (DAAD). He graduated in 2022 with Distinction. Prior to that, he completed a BSc in Industrial and Systems Engineering from the Islamic University of Gaza - Palestine in 2014. His keen interest in data analytics and beliefs in the role that data can play in creating robust decisions and better solutions encouraged him to join the field of data science. Currently, Saeed focuses on developing deep neural networks and their applications to healthcare problems.
+## :clipboard: About me!:
+Saeed Shurrab is a Biomedical Engineering PhD student at the Clinical Artificial Intelligence Lab - New York University Abu Dhabi. He earned his MSc in Data Science and Artificial Intelligence from Jordan University of Science and Technology, where he was awarded the prestigious German Academic Exchange Scholarship (DAAD) and graduated with distinction in 2022. Before this, he completed his BSc in Industrial and Systems Engineering at the Islamic University of Gaza, Palestine, in 2014. Saeed’s passion for data analytics and his strong belief in the transformative power of data in driving robust decision-making and innovative solutions led him to pursue a career in data science.
 
-
-## 🔭 I’m currently working as:
-**Research Assistant - [Clinical AI Lab](https://clinicalailab.com/index.html) - New York University Abu Dhabi.**
+## 🔭 Research interest:  
+Saeed's focuses on developing novel deep neural networks and their applications to real-world healthcare research problems, specifically multi-modal machine learning as well as self-supervised learning.
 
 ## 📫 Feel free to reach me via:
 1. gshurrab@gmail.com
@@ -15,11 +14,12 @@ Saeed Shurrab completed an MSc in Data Science and Artificial Intelligence at Jo
 https://saeedshurrab.github.io/
 
 ## 🌱 Featured publications
-1. [Self-supervised learning methods and applications in medical imaging analysis: a survey](https://doi.org/10.7717/peerj-cs.1045)
-2. [Attitudes Evaluation Toward COVID-19 Pandemic: An Application of Twitter Sentiment Analysis and Latent Dirichlet Allocation](http://dx.doi.org/10.1109/ICICS52457.2021.9464558)
+1. [Multimodal Machine Learning for Stroke Prognosis and Diagnosis: A Systematic Review](https://doi.org/10.1109/JBHI.2024.3448238)
+2. [Self-supervised learning methods and applications in medical imaging analysis: a survey](https://doi.org/10.7717/peerj-cs.1045)
+3. [Attitudes Evaluation Toward COVID-19 Pandemic: An Application of Twitter Sentiment Analysis and Latent Dirichlet Allocation](http://dx.doi.org/10.1109/ICICS52457.2021.9464558)
 
 
-## 💬 Connect with me:
+## 💬 Connect:
 
 
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Saeed-Shurrab)
@@ -62,7 +62,7 @@ https://saeedshurrab.github.io/
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedShurrab&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedshurrab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
