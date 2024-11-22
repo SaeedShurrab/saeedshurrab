@@ -14,9 +14,9 @@ Saeed's focuses on developing novel deep neural networks and their applications 
 https://saeedshurrab.github.io/
 
 ## 🌱 Featured publications
-1. [Multimodal Machine Learning for Stroke Prognosis and Diagnosis: A Systematic Review](https://doi.org/10.1109/JBHI.2024.3448238)
-2. [Self-supervised learning methods and applications in medical imaging analysis: a survey](https://doi.org/10.7717/peerj-cs.1045)
-3. [Attitudes Evaluation Toward COVID-19 Pandemic: An Application of Twitter Sentiment Analysis and Latent Dirichlet Allocation](http://dx.doi.org/10.1109/ICICS52457.2021.9464558)
+* [Multimodal Machine Learning for Stroke Prognosis and Diagnosis: A Systematic Review](https://doi.org/10.1109/JBHI.2024.3448238)
+* [Self-supervised learning methods and applications in medical imaging analysis: a survey](https://doi.org/10.7717/peerj-cs.1045)
+* [Multimodal masked siamese network improves chest X-ray representation learning](https://doi.org/10.1038/s41598-024-74043-x)
 
 
 ## 💬 Connect:
@@ -55,10 +55,7 @@ https://saeedshurrab.github.io/
 
   [<img align="left" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />](https://numpy.org/)
 
-  [<img align="left" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />](https://plotly.com/)
-
   [<img align="left" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />](https://www.latex-project.org/)
-  [<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/)
 <br>
 <br>
 <br>
