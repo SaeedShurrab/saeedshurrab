@@ -14,7 +14,7 @@ My current research focuses on developing foundation models for structured elect
 https://saeedshurrab.github.io/
 
 ## 🌱 Featured publications
-*[EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records](https://doi.org/10.48550/arXiv.2605.12335)
+* [EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records](https://doi.org/10.48550/arXiv.2605.12335)
 * [Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data](https://doi.org/10.1109/EMBC58623.2025.11253814)
 * [Multimodal Machine Learning for Stroke Prognosis and Diagnosis: A Systematic Review](https://doi.org/10.1109/JBHI.2024.3448238)
 * [Self-supervised learning methods and applications in medical imaging analysis: a survey](https://doi.org/10.7717/peerj-cs.1045)
