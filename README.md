@@ -1,4 +1,4 @@
-## :clipboard: About me!:
+## :clipboard: About me!
 Saeed Shurrab is a Biomedical Engineering PhD student at the Clinical Artificial Intelligence Lab - New York University Abu Dhabi. He earned his MSc in Data Science and Artificial Intelligence from Jordan University of Science and Technology, where he was awarded the prestigious German Academic Exchange Scholarship (DAAD) and graduated with distinction in 2022. Before this, he completed his BSc in Industrial and Systems Engineering at the Islamic University of Gaza, Palestine, in 2014. Saeed’s passion for data analytics and his strong belief in the transformative power of data in driving robust decision-making and innovative solutions led him to pursue a career in data science.
 
 ## 🔭 Research interest:  
