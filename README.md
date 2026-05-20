@@ -14,6 +14,8 @@ Saeed's focuses on developing novel deep neural networks and their applications 
 https://saeedshurrab.github.io/
 
 ## 🌱 Featured publications
+*[EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records](https://doi.org/10.48550/arXiv.2605.12335)
+* [Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data](https://doi.org/10.1109/EMBC58623.2025.11253814)
 * [Multimodal Machine Learning for Stroke Prognosis and Diagnosis: A Systematic Review](https://doi.org/10.1109/JBHI.2024.3448238)
 * [Self-supervised learning methods and applications in medical imaging analysis: a survey](https://doi.org/10.7717/peerj-cs.1045)
 * [Multimodal masked siamese network improves chest X-ray representation learning](https://doi.org/10.1038/s41598-024-74043-x)
@@ -35,7 +37,7 @@ https://saeedshurrab.github.io/
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal) -->
 
-
+<!--
 <br>
 <br>
 
@@ -62,18 +64,18 @@ https://saeedshurrab.github.io/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedshurrab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+-->
 
 
 
-
-
+<!--
 ## 🌱 My Github summary:
 
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedShurrab&count_private=true&show_icons=true&&theme=radical)
 
-
+-->
 
 
 
